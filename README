@@ -1,0 +1,37 @@
+#p-server:: pimpathon server v.3
+#copyright:: 2008 anthor@mesmer.com
+#author:: Anthony Rossano, anthor@mesmer.com 
+p-server is a custom TCP server, with modules for different protocols. 
+it is designed to provide a high speed, secure, useful platform for social gaming applications. 
+HTTP is built now, and supports a subset of HTTP 1.1
+without using any of the built in ruby net/http (cgi) libs. 
+p-server uses a producer-consumer concurrency model, 
+and has efficient (i.e. reused) connections to memcached and mysql 
+implemented as a module called 'persist'. 
+p-server includes cron functionality, 
+has a logging system that logs to text files and a database, 
+and has a user data management system with strong security. 
+p-server connections are stateless, and one user session can 
+be distributed across many nodes. The user auth system returns cookies to the 
+browser which must be included in any further user HTTP requests. 
+
+#extra note for Mogreet:
+I grant a permanent, nonexclusive, worldwide, fully paid up right to use, modify, sell and distribute the p-server,
+according to the terms of the Gnu Public License v. 3. 
+
+Copyright (C) 2010  Anthony Rossano
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>
+
+#test git

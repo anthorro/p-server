@@ -1,0 +1,1194 @@
+
+ logger starting with loglevel 7
+loglevel 3 2012-02-26 15:39:57 -0800 Macintosh.local:/usr/mogreet_distro/lib/ruby/gems/1.9.1/gems/memcache-client-1.8.0/lib/memcache.rb:724:in get_server_for_key mcget:No servers available
+loglevel 2 2012-02-26 15:39:57 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:210:in rescue in mcget http_module 500 error:Persist:mcget:  No servers available
+ logger starting with loglevel 7
+loglevel 3 2012-02-26 15:40:00 -0800 Macintosh.local:/usr/mogreet_distro/lib/ruby/gems/1.9.1/gems/memcache-client-1.8.0/lib/memcache.rb:724:in get_server_for_key mcget:No servers available
+loglevel 2 2012-02-26 15:40:00 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:210:in rescue in mcget http_module 500 error:Persist:mcget:  No servers available
+loglevel 3 2012-02-26 15:40:00 -0800 Macintosh.local:/usr/mogreet_distro/lib/ruby/gems/1.9.1/gems/memcache-client-1.8.0/lib/memcache.rb:724:in get_server_for_key mcget:No servers available
+loglevel 2 2012-02-26 15:40:00 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:210:in rescue in mcget http_module 500 error:Persist:mcget:  No servers available
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 3 2012-02-26 15:49:02 -0800 Macintosh.local:/usr/mogreet_distro/lib/ruby/gems/1.9.1/gems/memcache-client-1.8.0/lib/memcache.rb:870:in with_socket_management mcget:No connection to server (localhosts:11211 DEAD (SocketError: getaddrinfo: nodename nor servname provided, or not known), will retry at 2012-02-26 15:49:32 -0800)
+loglevel 2 2012-02-26 15:49:02 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:210:in rescue in mcget http_module 500 error:Persist:mcget:  No connection to server (localhosts:11211 DEAD (SocketError: getaddrinfo: nodename nor servname provided, or not known), will retry at 2012-02-26 15:49:32 -0800)
+ logger starting with loglevel 7
+loglevel 3 2012-02-26 15:49:03 -0800 Macintosh.local:/usr/mogreet_distro/lib/ruby/gems/1.9.1/gems/memcache-client-1.8.0/lib/memcache.rb:870:in with_socket_management mcget:No connection to server (localhosts:11211 DEAD (SocketError: getaddrinfo: nodename nor servname provided, or not known), will retry at 2012-02-26 15:49:33 -0800)
+loglevel 2 2012-02-26 15:49:03 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:210:in rescue in mcget http_module 500 error:Persist:mcget:  No connection to server (localhosts:11211 DEAD (SocketError: getaddrinfo: nodename nor servname provided, or not known), will retry at 2012-02-26 15:49:33 -0800)
+loglevel 3 2012-02-26 15:49:03 -0800 Macintosh.local:/usr/mogreet_distro/lib/ruby/gems/1.9.1/gems/memcache-client-1.8.0/lib/memcache.rb:870:in with_socket_management mcget:No connection to server (localhosts:11211 DEAD (SocketError: getaddrinfo: nodename nor servname provided, or not known), will retry at 2012-02-26 15:49:32 -0800)
+loglevel 2 2012-02-26 15:49:03 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:210:in rescue in mcget http_module 500 error:Persist:mcget:  No connection to server (localhosts:11211 DEAD (SocketError: getaddrinfo: nodename nor servname provided, or not known), will retry at 2012-02-26 15:49:32 -0800)
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-02-26 16:37:20 -0800 Macintosh.local:./p-server_1.4.rb:98:in block in run http_module 500 error:undefined method earl for Honeydoo:Module
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-02-26 16:38:03 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/honeydoo.rb:36:in earl http_module 500 error:undefined method [] for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-02-26 16:39:02 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/honeydoo.rb:36:in earl http_module 500 error:undefined method [] for nil:NilClass
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-02-26 17:09:21 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/honeydoo.rb:30:in honeydooit http_module 500 error:undefined method to_string for [, honeydoo, honeydoo]:Array
+ logger starting with loglevel 7
+loglevel 2 2012-02-26 17:10:10 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/honeydoo.rb:30:in honeydooit http_module 500 error:undefined method to_string for [, honeydoo]:Array
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 3 2012-03-05 13:51:20 -0800 Macintosh.local:/usr/mogreet_distro/lib/ruby/1.9.1/net/protocol.rb:135:in sysread mcget:Connection reset by peer
+loglevel 2 2012-03-05 13:51:20 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:210:in rescue in mcget http_module 500 error:Persist:mcget:  Connection reset by peer
+ logger starting with loglevel 7
+loglevel 3 2012-03-05 13:51:20 -0800 Macintosh.local:/usr/mogreet_distro/lib/ruby/1.9.1/net/protocol.rb:177:in write mcget:Broken pipe
+loglevel 2 2012-03-05 13:51:20 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:210:in rescue in mcget http_module 500 error:Persist:mcget:  Broken pipe
+ logger starting with loglevel 7
+loglevel 3 2012-03-05 13:51:20 -0800 Macintosh.local:/usr/mogreet_distro/lib/ruby/gems/1.9.1/gems/memcache-client-1.8.0/lib/memcache.rb:870:in with_socket_management mcget:No connection to server (localhost:11211 DEAD (Errno::ECONNREFUSED: Connection refused - connect(2)), will retry at 2012-03-05 13:51:50 -0800)
+loglevel 2 2012-03-05 13:51:20 -0800 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:210:in rescue in mcget http_module 500 error:Persist:mcget:  No connection to server (localhost:11211 DEAD (Errno::ECONNREFUSED: Connection refused - connect(2)), will retry at 2012-03-05 13:51:50 -0800)
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-04 17:38:23 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-04 17:39:20 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+ logger starting with loglevel 7
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+ logger starting with loglevel 7
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:40:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:41:01 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:173:in query dbquery:Table pdb.text_stash doesnt exist
+loglevel 3 2012-04-04 17:41:01 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery wrapget:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+loglevel 2 2012-04-04 17:41:01 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:176:in rescue in dbquery http_module 500 error:error in Persist::dbquery - Table pdb.text_stash doesnt exist
+ logger starting with loglevel 7
+loglevel 2 2012-04-04 18:14:17 -0700 Macintosh.local:/usr/mogreet_distro/lib/ruby/1.9.1/uri/common.rb:230:in unescape http_module 500 error:undefined method gsub for nil:NilClass
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-04 18:53:01 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/persist_module.rb:280:in wrapreadfile http_module 500 error:undefined method | for .htm:String
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-04 19:01:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-04 19:58:53 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-04 19:59:06 -0700 Macintosh.local:/usr/mogreet_distro/lib/ruby/1.9.1/uri/common.rb:230:in unescape http_module 500 error:undefined method gsub for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-04 20:00:19 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-04 20:00:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-04 20:01:28 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-04 20:22:50 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-05 14:36:49 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:130:in process http_module 500 error:undefined method [] for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-05 14:38:04 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:130:in process http_module 500 error:undefined method [] for nil:NilClass
+loglevel 2 2012-04-05 14:38:09 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:130:in process http_module 500 error:undefined method [] for nil:NilClass
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-05 18:57:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/honeydoo.rb:40:in honeydooit http_module 500 error:uninitialized constant Honeydoo::CGI
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-05 19:04:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/honeydoo.rb:45:in honeydooit http_module 500 error:uninitialized constant Net::HTTP
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-05 19:05:01 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/honeydoo.rb:47:in honeydooit http_module 500 error:undefined method use_ssl= for #<Net::HTTP api.mogreet.com:443 open=false>
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-05 19:09:40 -0700 Macintosh.local:/usr/mogreet_distro/lib/ruby/1.9.1/net/http.rb:581:in initialize http_module 500 error:cant convert Hash into String
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-05 19:13:29 -0700 Macintosh.local:/usr/mogreet_distro/lib/ruby/1.9.1/net/http.rb:581:in initialize http_module 500 error:cant convert Hash into String
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-05 19:14:06 -0700 Macintosh.local:/usr/mogreet_distro/lib/ruby/1.9.1/net/http.rb:581:in initialize http_module 500 error:cant convert Hash into String
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-05 19:14:46 -0700 Macintosh.local:/usr/mogreet_distro/lib/ruby/1.9.1/net/http.rb:581:in initialize http_module 500 error:cant convert Hash into String
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-05 19:15:27 -0700 Macintosh.local:/usr/mogreet_distro/lib/ruby/1.9.1/net/http.rb:581:in initialize http_module 500 error:cant convert Hash into String
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-05 19:17:50 -0700 Macintosh.local:/usr/mogreet_distro/lib/ruby/1.9.1/net/http.rb:581:in initialize http_module 500 error:cant convert Hash into String
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-09 08:31:46 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:32:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-09 08:33:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:33:58 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:35:42 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:36:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:37:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:38:50 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:40:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:41:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:42:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-09 08:43:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:44:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:45:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-09 08:46:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-11 16:26:54 -0700 Macintosh.local:/usr/mogreet_distro/lib/ruby/1.9.1/uri/common.rb:156:in split http_module 500 error:bad URI(is not URI?): https://api.mogreet.com/moms/transaction.send?client_id=837&token=5cc0c30ec718938724233095f13806fe&campaign_id=18527&to=2063695205&message=Hi honey! would you get this stuff for me PLEASE???
+ 
+ milk
+ cheese
+ th
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-11 17:11:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/honeydoo.rb:50:in honeydooit http_module 500 error:undefined method list! for #<Consumer:0x000001010db6c8>
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 14:18:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 14:19:01 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 14:20:49 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 14:20:50 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 14:22:46 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 14:22:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:24:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:24:58 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:26:45 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:26:53 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:28:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:28:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:30:53 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:30:55 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:32:45 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:32:46 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 14:34:48 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:34:55 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:36:45 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:36:45 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:38:45 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:38:46 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:40:45 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:40:48 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:42:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:42:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:44:42 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 14:44:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:46:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:46:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:48:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:48:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:50:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:50:46 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:52:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:52:42 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:54:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:54:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:56:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 14:56:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:58:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 14:58:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:00:28 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 15:00:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:02:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:02:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:04:20 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:04:20 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:05:28 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:05:28 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:07:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:07:30 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:09:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:09:30 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:11:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 15:11:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:13:20 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:13:30 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:14:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:15:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 15:16:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:17:19 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:18:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:18:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:20:06 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:20:13 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:21:46 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:21:50 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:23:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:23:49 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:25:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 15:25:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:27:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:27:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:29:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:29:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:31:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:31:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:33:16 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:33:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:34:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 15:35:19 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:36:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:36:48 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:38:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:38:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:40:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:40:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:42:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:42:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:44:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:44:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:46:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 15:46:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:48:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:48:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:50:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 15:50:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:52:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:52:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:54:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:54:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:56:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 15:56:30 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:28:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:28:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 17:30:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:30:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:32:50 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:32:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:34:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:35:00 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:36:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:36:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:38:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:38:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 17:40:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:40:53 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:42:45 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:42:49 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:44:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:44:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:46:50 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:46:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:48:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:48:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-17 17:50:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-17 17:50:48 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:21:02 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-18 09:21:02 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-18 09:22:58 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:22:58 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:24:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:24:58 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:26:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:27:00 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:28:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:28:55 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:30:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:30:55 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:32:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:32:58 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-18 09:34:42 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-18 09:34:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:36:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:36:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-18 09:38:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:38:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:40:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:40:46 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:42:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:42:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:44:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:44:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:46:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:46:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:48:30 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-18 09:48:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:50:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:50:28 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:52:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:52:30 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:54:21 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:54:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:56:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-18 09:56:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:58:23 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 09:58:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:00:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:00:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:02:21 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:02:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:03:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:04:16 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:05:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:05:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:07:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-18 10:07:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:09:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-18 10:09:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:11:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:11:42 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:13:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:13:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:15:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-18 10:15:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 15:56:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 15:57:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 15:59:00 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:00:01 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:01:02 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 16:02:00 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:03:00 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:03:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:05:00 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:05:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:07:01 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:08:09 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:09:00 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:09:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:11:03 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 16:11:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:13:02 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:14:01 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:14:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:15:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:16:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 16:17:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:18:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:19:53 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:20:55 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:21:50 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:22:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:23:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:24:58 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:25:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:26:58 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 16:27:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:28:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 16:29:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:30:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:31:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:32:53 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:33:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:34:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:35:50 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:36:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:37:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:38:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:39:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 16:40:53 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:41:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 16:42:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:43:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:44:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:45:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:46:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:47:58 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:48:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:49:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:50:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:51:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:52:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 16:54:01 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:54:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:55:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:56:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:57:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 16:58:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 16:59:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:00:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:01:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:03:00 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:04:03 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:04:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:05:50 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:06:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 17:08:00 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:08:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:09:55 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:10:58 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:11:53 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:12:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:13:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:14:57 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:15:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:16:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:17:55 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 17:18:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:19:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:20:58 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 17:21:59 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:22:56 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:23:54 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:24:51 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:25:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:26:52 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:27:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:28:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:29:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:30:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:31:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 17:32:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:33:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:34:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:35:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:36:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:37:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:38:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:39:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:41:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:42:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 17:43:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:44:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:45:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:46:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 17:47:28 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:48:28 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:49:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:50:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:51:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:52:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:53:21 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:54:23 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:54:23 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:56:42 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 17:56:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:58:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 17:58:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:00:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:00:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:02:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 18:02:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:04:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:04:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:06:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:06:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:08:22 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:08:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:10:19 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:10:22 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:11:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:12:19 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:13:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 18:13:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:15:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:15:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:17:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 18:17:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:19:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:19:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:21:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:21:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:23:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:23:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:25:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:25:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:27:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 18:27:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:29:20 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:29:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:30:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:31:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:32:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:33:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:34:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:35:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 18:36:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:37:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:38:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:39:23 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:40:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:41:16 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:42:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:42:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:44:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:44:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:46:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 18:46:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:48:17 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:48:23 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:49:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:50:14 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:51:46 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:51:49 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:53:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:53:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:55:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:55:45 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:57:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 18:57:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:59:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 18:59:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:01:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 19:01:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:03:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:03:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:05:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:05:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:07:20 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:07:21 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:08:45 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:09:12 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:10:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:10:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:12:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 19:12:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:14:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:14:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:16:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:16:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 19:18:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:18:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:20:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:20:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:22:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:22:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:24:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:24:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:26:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:26:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:28:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 19:28:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:30:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:30:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:32:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:32:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:34:20 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:34:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:35:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:36:21 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:37:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:37:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:39:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 19:39:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:41:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:41:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:43:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 19:43:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:45:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:45:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:47:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:47:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:49:28 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:49:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:51:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:51:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:53:18 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 19:53:22 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:54:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:55:21 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:56:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:56:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:58:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 19:58:49 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:00:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:00:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:02:30 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:02:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:04:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 20:04:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:06:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:06:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:08:18 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:08:22 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:09:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:10:17 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:11:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:11:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:13:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:13:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:15:23 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 20:15:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:17:16 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:17:21 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:18:49 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:18:49 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:20:48 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:22:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:22:48 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:24:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:24:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:26:39 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 20:26:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:28:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:28:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:30:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:30:30 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:32:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:32:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:34:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:34:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:36:20 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:36:23 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:37:43 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 20:39:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:39:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:41:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:41:37 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:43:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 20:43:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:45:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:45:30 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:47:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:47:30 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:49:14 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:49:14 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:50:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:50:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:52:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:52:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:54:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 20:54:32 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:56:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:56:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:58:19 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:58:21 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:59:42 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 20:59:46 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:01:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:01:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:03:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:03:44 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:05:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 21:05:35 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:07:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:07:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:09:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:09:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:11:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:11:28 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:13:21 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:13:24 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:15:17 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:15:18 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:16:38 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 21:16:41 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:18:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:18:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:20:25 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:20:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:22:23 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:22:29 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:24:14 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:24:15 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:25:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:25:47 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:27:42 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 21:27:48 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:29:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:29:40 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:31:33 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:31:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:33:26 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:33:31 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:35:21 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:35:27 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:36:34 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:37:19 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+loglevel 2 2012-04-19 21:38:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+loglevel 2 2012-04-19 21:38:36 -0700 Macintosh.local:/Users/anthor/Desktop/project_honeydoo/http_module.rb:88:in process http_module 500 error:undefined method chop for nil:NilClass
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
+ logger starting with loglevel 7
